@@ -1,6 +1,5 @@
 /*
-	jq.Segment
-	v0.1
+	jq.Segment - v0.1
 	By Daniel Seripap, daniel@seripap.com
 	----------------------------------------
 	Lightweight jQuery Plugin that grabs URL Segments.
@@ -31,6 +30,6 @@
 			if (segment) {
 				return segments[segment-1];
 			} else {
-				return segments;
+				return segments.toString();
 			}
 		};})(jQuery);
