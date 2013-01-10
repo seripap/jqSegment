@@ -1,7 +1,6 @@
-jq.Segment
+jq.Segment - v0.1
 =========
-##v0.1
-##By Daniel Seripap, daniel@seripap.com
+###By Daniel Seripap, daniel@seripap.com
 =========
 Lightweight jQuery Plugin that grabs URL Segments.
 
