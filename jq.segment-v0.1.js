@@ -1,9 +1,9 @@
 /*
-	jq.Segment - lightweight jQuery Plugin that grabs URL Segments
+	jq.Segment
 	v0.1
 	By Daniel Seripap, daniel@seripap.com
 	----------------------------------------
-	Grabs URL segments of website.
+	Lightweight jQuery Plugin that grabs URL Segments.
 
 	USAGE:
 	Example URL: http://www.seripap.com/a/b/c
